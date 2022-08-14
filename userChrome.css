@@ -188,10 +188,10 @@ border-bottom: 1px solid #1f2f6f !important; }
 #zotero-item-pane-content .zotero-clicky-plus:hover { color: transparent !important;}
 
 /*tabs in Preferences dialog - well more like all the tabs except the ones I'll specify later*/
-tabpanel { color: rgb(255, 255, 255) !important;
+tabpanel { color: black !important;
 background: #282a36 !important; }
 
-tab[selected="true"] { color: white !important;
+tab[selected="true"] { color: rgb(0, 0, 0);
 background: #282a36 !important;
 border-top: 3px solid #ff79c6 !important; }
 
@@ -304,7 +304,7 @@ background: #282a36 !important; }
 #zotero-prefpane-general title { background: #473249 !important;
 color: #FFFFFF !important; }
 
-prefwindow { color: black !important;
+prefwindow { color: white !important;
 background: #282a36 !important; }
 
 prefwindow .chromeclass-toolbar { color: #FFFFFF !important;
