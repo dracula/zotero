@@ -188,16 +188,16 @@ border-bottom: 1px solid #1f2f6f !important; }
 #zotero-item-pane-content .zotero-clicky-plus:hover { color: transparent !important;}
 
 /*tabs in Preferences dialog - well more like all the tabs except the ones I'll specify later*/
-tabpanel { color: black !important;
-background: #7E2E7E !important; }
+tabpanel { color: rgb(255, 255, 255) !important;
+background: #282a36 !important; }
 
-tab[selected="true"] { color: black !important;
-background: #7E3E7E !important;
+tab[selected="true"] { color: white !important;
+background: #282a36 !important;
 border-top: 3px solid #ff79c6 !important; }
 
 tab { -moz-appearance: none !important;
-color: #eee !important;
-background: #474549 !important;
+color: white !important;
+background: #191a21 !important;
 border-top: 0px solid black !important;
 border-left: 0px solid black !important;
 border-right: 1px solid #1f2d6f !important;
@@ -205,8 +205,8 @@ border-radius: 0px !important;
 border-bottom-left-radius: 0px !important;
 border-bottom-right-radius: 0px !important; }
 
-tab:hover { color: black !important;
-background: #E0E8F6 !important;
+tab:hover { color: white !important;
+background: #282a36 !important;
 box-shadow: inset 0px 0px 0px !important;
 border-radius: 0px 0px 0 0 !important; }
 
@@ -300,15 +300,15 @@ background: #BBCEF1 !important; }
 
 /*preferences dialog*/
 #zotero-prefpane-general, #zotero-prefpane-sync, #zotero-prefpane-export, #zotero-prefpane-advanced-keys-tab, #wordProcessors, #zotero-quickCopy-format, #sync-reset-form, #zotero-export-options { color: black !important;
-background: #3e9e7e !important; }
+background: #282a36 !important; }
 #zotero-prefpane-general title { background: #473249 !important;
 color: #FFFFFF !important; }
 
 prefwindow { color: black !important;
-background: #4e9e7e !important; }
+background: #282a36 !important; }
 
 prefwindow .chromeclass-toolbar { color: #FFFFFF !important;
-background: #325469 !important; }
+background: #21222c !important; }
 
 /*about dialog*/
 #aboutcontent {	background: #474749 !important;
