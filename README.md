@@ -1,10 +1,27 @@
-# Zotero-Dracula-Theme
-This is a Dracula-based theme for Zotero, made by just changing the values of the [Rosmaninho's Zotero Dark theme](https://github.com/Rosmaninho/Zotero-Dark-Theme) with the [Dracula Theme color pallete](https://github.com/dracula/dracula-theme)
+# Dracula for [Zotero](https://www.zotero.org/)
 
-To install, create a ```chrome``` folder in
+> A dark theme for [Zotero](https://www.zotero.org/).
 
-```
-C:\Users\***\AppData\Roaming\Zotero\Zotero\Profiles\***.default\chrome
-```
+![Screenshot](./screenshot.png)
 
-and place the userChrome.css there.
+## Install
+
+All instructions can be found at [draculatheme.com/Zotero](https://draculatheme.com/Zotero).
+
+## Team
+
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+
+| [![Juan Costa](https://github.com/omanuelcosta.png?size=100)](https://github.com/omanuelcosta) |
+| ---------------------------------------------------------------------------------------- |
+| [Juan Costa](https://github.com/zenorocha)                                               |
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+
+## License
+
+[MIT License](./LICENSE)
