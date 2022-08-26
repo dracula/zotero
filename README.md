@@ -7,7 +7,7 @@
 ## Install
 1. go to ```C:\Users\User_name\AppData\Roaming\Zotero\Zotero\Profiles\user_profile.default\```
 2. create a ```chrome``` folder
-3. paste ```userChrome.css``` there.
+3. paste ```userChrome.css``` inside chrome folder.
 All instructions can be found at [draculatheme.com/Zotero](https://draculatheme.com/Zotero).
 
 ## Team
