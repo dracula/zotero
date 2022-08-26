@@ -17,7 +17,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![Juan Costa](https://github.com/omanuelcosta.png?size=100)](https://github.com/omanuelcosta) |
 | ---------------------------------------------------------------------------------------- |
-| [Juan Costa](https://github.com/zenorocha)                                               |
+| [Juan Costa](https://github.com/omanuelcosta)                                            |
 
 ## Community
 
