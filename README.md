@@ -13,7 +13,7 @@ All instructions can be found at [draculatheme.com/Zotero](https://draculatheme.
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/zotero/graphs/contributors).
 
 | [![Juan Costa](https://github.com/omanuelcosta.png?size=100)](https://github.com/omanuelcosta) |
 | ---------------------------------------------------------------------------------------- |
